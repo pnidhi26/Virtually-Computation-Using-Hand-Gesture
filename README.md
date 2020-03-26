@@ -1,6 +1,6 @@
 ## Environment
-- OS: MacOS El Capitan
-- Platform: Python 2.7.12
+- OS: MacOS (prefered)
+- Platform: Python 2.7
 - Librarys: 
 	- OpenCV 2.4.13
 	- appscript
